@@ -1,0 +1,9 @@
+C:\Users\Illidan Stormrage\Desktop\DemirorenTech\DemirorenTech.Business.Commons\bin\Debug\netcoreapp3.1\DemirorenTech.Business.Commons.deps.json
+C:\Users\Illidan Stormrage\Desktop\DemirorenTech\DemirorenTech.Business.Commons\bin\Debug\netcoreapp3.1\DemirorenTech.Business.Commons.dll
+C:\Users\Illidan Stormrage\Desktop\DemirorenTech\DemirorenTech.Business.Commons\bin\Debug\netcoreapp3.1\DemirorenTech.Business.Commons.pdb
+C:\Users\Illidan Stormrage\Desktop\DemirorenTech\DemirorenTech.Business.Commons\obj\Debug\netcoreapp3.1\DemirorenTech.Business.Commons.AssemblyInfoInputs.cache
+C:\Users\Illidan Stormrage\Desktop\DemirorenTech\DemirorenTech.Business.Commons\obj\Debug\netcoreapp3.1\DemirorenTech.Business.Commons.AssemblyInfo.cs
+C:\Users\Illidan Stormrage\Desktop\DemirorenTech\DemirorenTech.Business.Commons\obj\Debug\netcoreapp3.1\DemirorenTech.Business.Commons.csproj.CoreCompileInputs.cache
+C:\Users\Illidan Stormrage\Desktop\DemirorenTech\DemirorenTech.Business.Commons\obj\Debug\netcoreapp3.1\DemirorenTech.Business.Commons.dll
+C:\Users\Illidan Stormrage\Desktop\DemirorenTech\DemirorenTech.Business.Commons\obj\Debug\netcoreapp3.1\DemirorenTech.Business.Commons.pdb
+C:\Users\Illidan Stormrage\Desktop\DemirorenTech\DemirorenTech.Business.Commons\obj\Debug\netcoreapp3.1\DemirorenTech.Business.Commons.csprojAssemblyReference.cache

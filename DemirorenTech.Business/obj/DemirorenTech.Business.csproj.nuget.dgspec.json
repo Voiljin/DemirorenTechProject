@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Business\\DemirorenTech.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Business.Commons\\DemirorenTech.Business.Commons.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Business.Commons\\DemirorenTech.Business.Commons.csproj",
+        "projectName": "DemirorenTech.Business.Commons",
+        "projectPath": "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Business.Commons\\DemirorenTech.Business.Commons.csproj",
+        "packagesPath": "C:\\Users\\Illidan Stormrage\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Business.Commons\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Illidan Stormrage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Business\\DemirorenTech.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Business\\DemirorenTech.Business.csproj",
+        "projectName": "DemirorenTech.Business",
+        "projectPath": "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Business\\DemirorenTech.Business.csproj",
+        "packagesPath": "C:\\Users\\Illidan Stormrage\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Illidan Stormrage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Business.Commons\\DemirorenTech.Business.Commons.csproj": {
+                "projectPath": "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Business.Commons\\DemirorenTech.Business.Commons.csproj"
+              },
+              "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Mongo.Data\\DemirorenTech.Mongo.Data.csproj": {
+                "projectPath": "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Mongo.Data\\DemirorenTech.Mongo.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Mongo.Data\\DemirorenTech.Mongo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Mongo.Data\\DemirorenTech.Mongo.Data.csproj",
+        "projectName": "DemirorenTech.Mongo.Data",
+        "projectPath": "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Mongo.Data\\DemirorenTech.Mongo.Data.csproj",
+        "packagesPath": "C:\\Users\\Illidan Stormrage\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Illidan Stormrage\\Downloads\\DemirorenTech-main\\DemirorenTech-main\\DemirorenTech.Mongo.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Illidan Stormrage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
